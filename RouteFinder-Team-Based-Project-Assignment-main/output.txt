@@ -1,0 +1,169 @@
+Testing stations... PASSED!
+Testing connections... PASSED!
+
+----------------------------------------------------------------------
+Ajax Rapids to JavaRanch:
+
+Start out at Ajax Rapids.
+
+Get on the Booch Line heading towards UML Walk.
+
+When you get to UML Walk, get off the Booch Line.
+
+Switch over to the Wirfs-Brock Line, heading towards The Tikibean Lounge.
+
+Continue past The Tikibean Lounge...
+
+Continue past Head First Lounge...
+
+Continue past Objectville Diner...
+
+When you get to Servlet Springs, get off the Wirfs-Brock Line.
+
+Switch over to the Jacobson Line, heading towards Mighty Gumball, Inc..
+
+Continue past Mighty Gumball, Inc....
+
+Get off at JavaRanch and enjoy yourself!
+
+----------------------------------------------------------------------
+XHTML Expressway to JSP Junction:
+
+Start out at XHTML Expressway.
+
+Get on the Wirfs-Brock Line heading towards LSP Lane.
+
+Continue past LSP Lane...
+
+Continue past Algebra Avenue...
+
+When you get to DRY Drive, get off the Wirfs-Brock Line.
+
+Switch over to the Meyer Line, heading towards Web Design Way.
+
+When you get to Web Design Way, get off the Meyer Line.
+
+Switch over to the Wirfs-Brock Line, heading towards Boards 'R' Us.
+
+Continue past Boards 'R' Us...
+
+When you get to EJB Estates, get off the Wirfs-Brock Line.
+
+Switch over to the Liskov Line, heading towards Design Patterns Plaza.
+
+Continue past Design Patterns Plaza...
+
+Get off at JSP Junction and enjoy yourself!
+
+----------------------------------------------------------------------
+Mighty Gumball, Inc. to Choc-O-Holic, Inc.:
+
+Start out at Mighty Gumball, Inc..
+
+Get on the Jacobson Line heading towards Servlet Springs.
+
+When you get to Servlet Springs, get off the Jacobson Line.
+
+Switch over to the Wirfs-Brock Line, heading towards Objectville Diner.
+
+Continue past Objectville Diner...
+
+When you get to Head First Lounge, get off the Wirfs-Brock Line.
+
+Switch over to the Gamma Line, heading towards OOA&D Oval.
+
+When you get to OOA&D Oval, get off the Gamma Line.
+
+Switch over to the Meyer Line, heading towards CSS Center.
+
+Continue past CSS Center...
+
+When you get to Head First Theater, get off the Meyer Line.
+
+Switch over to the Rumbaugh Line, heading towards Choc-O-Holic, Inc..
+
+Get off at Choc-O-Holic, Inc. and enjoy yourself!
+
+----------------------------------------------------------------------
+
+Ajax Rapids to UML Walk:
+
+Start out at Ajax Rapids Using the Booch line. 
+
+Get off at UML Walk and enjoy yourself!
+
+----------------------------------------------------------------------
+
+Choc-O-Holic, Inc. to DRY Drive:
+
+Start out at Choc-O-Holic, Inc. 
+
+Get on the Rumbaugh Line heading towards Head First Theater
+
+When you arrive at Head First Theater switch to the Meyer line
+
+Get off at DRY Drive and enjoy yourself!
+
+----------------------------------------------------------------------
+
+Objectville pizza store to JavaBeans Boulevard:
+
+Start out at Objectville PizzaStore
+
+Get on the Booch line heading towards UML Walk
+
+Continue to Ajax Rapids
+
+Continue to HTML Heights
+
+Get off at JavaBeans Boulevard and enjoy yourslef!
+
+----------------------------------------------------------------------
+
+EJB Estates to GoF Gardens: 
+
+Start out at EJB Estates
+
+Get on the Liskov Line heading towards Design Patterns Plaza
+
+When you arrive to JSP junction get off the Liskov Line
+
+Transfer to the Jacobson line heading towards GoF Gardens
+
+Get off at GoF Gardens and enjoy yourself!
+
+----------------------------------------------------------------------
+
+JavaRanch to Objectville Diner:
+
+Start out at JavaRanch 
+
+Get on the Jacobson line heading towards Mighty Gumball. Inc. 
+
+Continue to Servlet Springs then transfer to the Wirfs-Brock Line heading towards Objectville Diner
+
+Get off at Objectville Diner and enjoy yourself!
+
+----------------------------------------------------------------------
+
+Weather-O-Rama, Inc. to OCP Orchard:
+
+Start out at Weather-O-Rama, Inc. 
+
+Get on the Wirfs-Brock Line heading towards XHTML Expressway  
+
+Continue to LSP Lane 
+
+Continue to Algebra Avenue 
+
+Continue to DRY Drive 
+
+Continue to PMP Place 
+
+Continue to Boards 'R' Us 
+
+Continue to EJB Estates then transfer to the Liskov Line heading towards OCP Orchard 
+
+Get off at OCP Orchard and enjoy yourself!
+
+----------------------------------------------------------------------

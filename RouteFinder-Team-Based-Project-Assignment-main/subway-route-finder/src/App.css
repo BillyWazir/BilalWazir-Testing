@@ -1,0 +1,104 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+} 
+
+.route-details {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.route-visual {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.station {
+  position: relative;
+  margin: 25px;
+  text-align: center;
+}
+
+.station.intermediate .line {
+  position: absolute;
+  bottom: -15px; /* Adjust as necessary */
+  left: 50%;
+  transform: translateX(-50%);
+  width: 145%; /* Ensure it spans the full width of the station */
+  height: 15px; /* Line thickness */
+}
+
+.station-icon {
+  display: block;
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 15px;
+  margin-bottom: 5px;
+  color: #fff;
+  border-radius: 50%;
+}
+
+.station-icon.start {
+  background-color: #007bff; /* Start icon color */
+}
+
+.station-icon.end {
+  background-color: #dc3545; /* End icon color */
+}
+
+.station-name {
+  display: inline-block;
+  background-color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: 5px solid #2211e0;
+  margin-top: 30px; /* Space for the icon */
+}
+
+/* Legend styles */
+.legend {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.line-color {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.line-name {
+  display: inline-block;
+}
+
+.logo {
+  max-width: 500px; /* Adjust the size as needed */
+  margin-bottom: 100px; /* Space between the logo and title */
+}
+
+.status-message {
+  color: red;
+  margin-top: 20px;
+}
+
+.favorites {
+  margin-top: 20px;
+}
+
+.favorite-item {
+  cursor: pointer;
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin: 5px;
+}
